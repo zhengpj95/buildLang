@@ -1,0 +1,1098 @@
+{
+	"ActivityTime": {
+		"key": "ActivityTime",
+		"value": "活动时间"
+	},
+	"CommonCloseTip": {
+		"key": "CommonCloseTip",
+		"value": "点击其他区域关闭"
+	},
+	"WaitPosition": {
+		"key": "WaitPosition",
+		"value": "虚位以待"
+	},
+	"LoginNoTip": {
+		"key": "LoginNoTip",
+		"value": "本次登陆不再提示"
+	},
+	"RoleAddAttr": {
+		"key": "RoleAddAttr",
+		"value": "为角色加成属性"
+	},
+	"Male": {
+		"key": "Male",
+		"value": "男性"
+	},
+	"Female": {
+		"key": "Female",
+		"value": "女性"
+	},
+	"Power": {
+		"key": "Power",
+		"value": "战力"
+	},
+	"Cost": {
+		"key": "Cost",
+		"value": "消耗"
+	},
+	"Stage": {
+		"key": "Stage",
+		"value": "阶"
+	},
+	"Lv": {
+		"key": "Lv",
+		"value": "级"
+	},
+	"Times": {
+		"key": "Times",
+		"value": "次"
+	},
+	"Star": {
+		"key": "Star",
+		"value": "星"
+	},
+	"Layer": {
+		"key": "Layer",
+		"value": "层"
+	},
+	"Zhuan": {
+		"key": "Zhuan",
+		"value": "转"
+	},
+	"Wan": {
+		"key": "Wan",
+		"value": "万"
+	},
+	"Value": {
+		"key": "Value",
+		"value": "值"
+	},
+	"LayerChong": {
+		"key": "LayerChong",
+		"value": "重"
+	},
+	"CntJian": {
+		"key": "CntJian",
+		"value": "件"
+	},
+	"StarLv": {
+		"key": "StarLv",
+		"value": "星级"
+	},
+	"GradeLv": {
+		"key": "GradeLv",
+		"value": "等级"
+	},
+	"LvStage": {
+		"key": "LvStage",
+		"value": "等阶"
+	},
+	"Integral": {
+		"key": "Integral",
+		"value": "积分"
+	},
+	"Count": {
+		"key": "Count",
+		"value": "数量"
+	},
+	"NickName": {
+		"key": "NickName",
+		"value": "昵称"
+	},
+	"Name": {
+		"key": "Name",
+		"value": "名称"
+	},
+	"CurAttr": {
+		"key": "CurAttr",
+		"value": "当前属性"
+	},
+	"NextAttr": {
+		"key": "NextAttr",
+		"value": "下级属性"
+	},
+	"Turn": {
+		"key": "Turn",
+		"value": "转"
+	},
+	"Rein": {
+		"key": "Rein",
+		"value": "转生"
+	},
+	"Realm": {
+		"key": "Realm",
+		"value": "境界"
+	},
+	"UnRein": {
+		"key": "UnRein",
+		"value": "未转生"
+	},
+	"AutoFight": {
+		"key": "AutoFight",
+		"value": "秒后自动战斗"
+	},
+	"AutoJoin": {
+		"key": "AutoJoin",
+		"value": "秒后自动加入"
+	},
+	"FullAutoFight": {
+		"key": "FullAutoFight",
+		"value": "满员自动战斗"
+	},
+	"NotTeamLeader": {
+		"key": "NotTeamLeader",
+		"value": "不是队长，无法操作!"
+	},
+	"RemainTime": {
+		"key": "RemainTime",
+		"value": "剩余时间"
+	},
+	"MyIntegral": {
+		"key": "MyIntegral",
+		"value": "我的积分"
+	},
+	"RankIntegral": {
+		"key": "RankIntegral",
+		"value": "上榜积分"
+	},
+	"MyAllIntegral": {
+		"key": "MyAllIntegral",
+		"value": "我的总积分"
+	},
+	"ServerIntegral": {
+		"key": "ServerIntegral",
+		"value": "本服积分"
+	},
+	"CurIntegral": {
+		"key": "CurIntegral",
+		"value": "当前积分"
+	},
+	"Rank": {
+		"key": "Rank",
+		"value": "排名"
+	},
+	"Record": {
+		"key": "Record",
+		"value": "战绩"
+	},
+	"Player": {
+		"key": "Player",
+		"value": "玩家"
+	},
+	"NearbyPlayer": {
+		"key": "NearbyPlayer",
+		"value": "附近玩家"
+	},
+	"RankPlayer": {
+		"key": "RankPlayer",
+		"value": "排名玩家"
+	},
+	"MarginField": {
+		"key": "MarginField",
+		"value": "净胜场"
+	},
+	"Success": {
+		"key": "Success",
+		"value": "成功"
+	},
+	"Victory": {
+		"key": "Victory",
+		"value": "胜利"
+	},
+	"Start": {
+		"key": "Start",
+		"value": "开始"
+	},
+	"End": {
+		"key": "End",
+		"value": "结束"
+	},
+	"Failed": {
+		"key": "Failed",
+		"value": "失败"
+	},
+	"Have": {
+		"key": "Have",
+		"value": "拥有"
+	},
+	"Nothing": {
+		"key": "Nothing",
+		"value": "无"
+	},
+	"Attr": {
+		"key": "Attr",
+		"value": "属性"
+	},
+	"PropDesc": {
+		"key": "PropDesc",
+		"value": "道具描述"
+	},
+	"GainSrc": {
+		"key": "GainSrc",
+		"value": "获取途径"
+	},
+	"ZhuanShengCond": {
+		"key": "ZhuanShengCond",
+		"value": "转生需求"
+	},
+	"JingjieCond": {
+		"key": "JingjieCond",
+		"value": "境界需要"
+	},
+	"HolyCenterCond": {
+		"key": "HolyCenterCond",
+		"value": "圣兵阁需要"
+	},
+	"MaxLv": {
+		"key": "MaxLv",
+		"value": "已满级"
+	},
+	"MaxLv2": {
+		"key": "MaxLv2",
+		"value": "已达最高级"
+	},
+	"MaxStage": {
+		"key": "MaxStage",
+		"value": "已满阶"
+	},
+	"HasActive": {
+		"key": "HasActive",
+		"value": "已激活"
+	},
+	"HasFinished": {
+		"key": "HasFinished",
+		"value": "已结束"
+	},
+	"Effective": {
+		"key": "Effective",
+		"value": "已生效"
+	},
+	"HasKill": {
+		"key": "HasKill",
+		"value": "已击杀"
+	},
+	"UnActive": {
+		"key": "UnActive",
+		"value": "未激活"
+	},
+	"HasOpen": {
+		"key": "HasOpen",
+		"value": "已开启"
+	},
+	"Opening": {
+		"key": "Opening",
+		"value": "开启中"
+	},
+	"RemainCnt": {
+		"key": "RemainCnt",
+		"value": "剩余次数"
+	},
+	"FuncNotOpen": {
+		"key": "FuncNotOpen",
+		"value": "功能暂未开放！"
+	},
+	"NotOpen": {
+		"key": "NotOpen",
+		"value": "未开放"
+	},
+	"NotUnlock": {
+		"key": "NotUnlock",
+		"value": "未解锁"
+	},
+	"NotOnRank": {
+		"key": "NotOnRank",
+		"value": "未上榜"
+	},
+	"MyRank": {
+		"key": "MyRank",
+		"value": "我的排名"
+	},
+	"MyLayer": {
+		"key": "MyLayer",
+		"value": "我的层数"
+	},
+	"MySnowflake": {
+		"key": "MySnowflake",
+		"value": "我的嫩叶"
+	},
+	"Snowflake": {
+		"key": "Snowflake",
+		"value": "嫩叶"
+	},
+	"CurServerRank": {
+		"key": "CurServerRank",
+		"value": "本服排名"
+	},
+	"Binded": {
+		"key": "Binded",
+		"value": "已绑定"
+	},
+	"Getted": {
+		"key": "Getted",
+		"value": "已领取"
+	},
+	"GoldNotEnough": {
+		"key": "GoldNotEnough",
+		"value": "元宝不足"
+	},
+	"CopperNotEnough": {
+		"key": "CopperNotEnough",
+		"value": "铜钱不足"
+	},
+	"VipLvNotEnough": {
+		"key": "VipLvNotEnough",
+		"value": "VIP等级不足"
+	},
+	"ComingSoon": {
+		"key": "ComingSoon",
+		"value": "敬请期待！"
+	},
+	"AutoBuy": {
+		"key": "AutoBuy",
+		"value": "自动购买"
+	},
+	"CurEff": {
+		"key": "CurEff",
+		"value": "当前效果"
+	},
+	"NextEff": {
+		"key": "NextEff",
+		"value": "下级效果"
+	},
+	"ActCond": {
+		"key": "ActCond",
+		"value": "激活条件"
+	},
+	"UpLvCond": {
+		"key": "UpLvCond",
+		"value": "升级条件"
+	},
+	"OpenCond": {
+		"key": "OpenCond",
+		"value": "开启条件"
+	},
+	"Free": {
+		"key": "Free",
+		"value": "免费"
+	},
+	"Wait": {
+		"key": "Wait",
+		"value": "等待"
+	},
+	"Hurt": {
+		"key": "Hurt",
+		"value": "伤害"
+	},
+	"Recommend": {
+		"key": "Recommend",
+		"value": "推荐"
+	},
+	"PassTime": {
+		"key": "PassTime",
+		"value": "通关时间"
+	},
+	"PassRecord": {
+		"key": "PassRecord",
+		"value": "通关记录"
+	},
+	"CurChallenge": {
+		"key": "CurChallenge",
+		"value": "当前挑战"
+	},
+	"GetRew": {
+		"key": "GetRew",
+		"value": "获得奖励"
+	},
+	"GetShort": {
+		"key": "GetShort",
+		"value": "获得"
+	},
+	"CommonPowerTitle": {
+		"key": "CommonPowerTitle",
+		"value": "战力"
+	},
+	"Atk": {
+		"key": "Atk",
+		"value": "攻击"
+	},
+	"Hp": {
+		"key": "Hp",
+		"value": "生命"
+	},
+	"Max_hp": {
+		"key": "Max_hp",
+		"value": "生命"
+	},
+	"Realdam": {
+		"key": "Realdam",
+		"value": "真实伤害"
+	},
+	"Def": {
+		"key": "Def",
+		"value": "防御"
+	},
+	"Redef": {
+		"key": "Redef",
+		"value": "破甲"
+	},
+	"Crit": {
+		"key": "Crit",
+		"value": "暴击"
+	},
+	"Recr": {
+		"key": "Recr",
+		"value": "抗暴"
+	},
+	"Dodge": {
+		"key": "Dodge",
+		"value": "闪避"
+	},
+	"Hit": {
+		"key": "Hit",
+		"value": "命中"
+	},
+	"Imprate": {
+		"key": "Imprate",
+		"value": "增加伤害"
+	},
+	"Decrate": {
+		"key": "Decrate",
+		"value": "减少伤害"
+	},
+	"Critrate": {
+		"key": "Critrate",
+		"value": "暴击率"
+	},
+	"Recrate": {
+		"key": "Recrate",
+		"value": "抗暴率"
+	},
+	"Dorate": {
+		"key": "Dorate",
+		"value": "闪避率"
+	},
+	"Hitrate": {
+		"key": "Hitrate",
+		"value": "命中率"
+	},
+	"Crdamrate": {
+		"key": "Crdamrate",
+		"value": "暴击伤害"
+	},
+	"Zhitdamrate": {
+		"key": "Zhitdamrate",
+		"value": "卓越一击"
+	},
+	"Zhitrate": {
+		"key": "Zhitrate",
+		"value": "卓越一击率"
+	},
+	"Chitrate": {
+		"key": "Chitrate",
+		"value": "超神一击率"
+	},
+	"Chitdamrate": {
+		"key": "Chitdamrate",
+		"value": "超神一击"
+	},
+	"Dragon_rate": {
+		"key": "Dragon_rate",
+		"value": "神龙一击率"
+	},
+	"Dragon_imprate": {
+		"key": "Dragon_imprate",
+		"value": "神龙一击增伤"
+	},
+	"Dragon_extdmg": {
+		"key": "Dragon_extdmg",
+		"value": "神龙一击伤害"
+	},
+	"Pkdamrate": {
+		"key": "Pkdamrate",
+		"value": "PK增伤"
+	},
+	"Pkdedamrate": {
+		"key": "Pkdedamrate",
+		"value": "PK减伤"
+	},
+	"Skidamrate": {
+		"key": "Skidamrate",
+		"value": "技能伤害"
+	},
+	"Sjrealdam": {
+		"key": "Sjrealdam",
+		"value": "神技无视防御"
+	},
+	"Sjimprate": {
+		"key": "Sjimprate",
+		"value": "神技增伤"
+	},
+	"Sjcritrate": {
+		"key": "Sjcritrate",
+		"value": "神技附加暴击率"
+	},
+	"Exprate": {
+		"key": "Exprate",
+		"value": "经验收益"
+	},
+	"Moneyrate": {
+		"key": "Moneyrate",
+		"value": "铜币收益"
+	},
+	"Creditrate": {
+		"key": "Creditrate",
+		"value": "声望收益"
+	},
+	"Trearate": {
+		"key": "Trearate",
+		"value": "魅力"
+	},
+	"Onlytoboss": {
+		"key": "Onlytoboss",
+		"value": "BOSS增伤"
+	},
+	"Cdredrate": {
+		"key": "Cdredrate",
+		"value": "技能冷却"
+	},
+	"Xiyourate": {
+		"key": "Xiyourate",
+		"value": "稀有掉落"
+	},
+	"Goddam": {
+		"key": "Goddam",
+		"value": "武神伤害"
+	},
+	"Goddamrate": {
+		"key": "Goddamrate",
+		"value": "武神伤害"
+	},
+	"Godcritrate": {
+		"key": "Godcritrate",
+		"value": "武神暴击率"
+	},
+	"Godcritdam": {
+		"key": "Godcritdam",
+		"value": "武神暴伤"
+	},
+	"Godrealdam": {
+		"key": "Godrealdam",
+		"value": "武神真伤"
+	},
+	"Maiddam": {
+		"key": "Maiddam",
+		"value": "侍女伤害"
+	},
+	"Maiddamrate": {
+		"key": "Maiddamrate",
+		"value": "侍女伤害"
+	},
+	"Maidcritrate": {
+		"key": "Maidcritrate",
+		"value": "侍女暴击率"
+	},
+	"Maidcritdam": {
+		"key": "Maidcritdam",
+		"value": "侍女暴伤"
+	},
+	"Maidrealdam": {
+		"key": "Maidrealdam",
+		"value": "侍女真伤"
+	},
+	"Fbdam": {
+		"key": "Fbdam",
+		"value": "灵宝伤害"
+	},
+	"Fbdamrate": {
+		"key": "Fbdamrate",
+		"value": "灵宝伤害"
+	},
+	"Fbcritrate": {
+		"key": "Fbcritrate",
+		"value": "灵宝暴击率"
+	},
+	"Fbcritdam": {
+		"key": "Fbcritdam",
+		"value": "灵宝暴伤"
+	},
+	"Fbrealdam": {
+		"key": "Fbrealdam",
+		"value": "灵宝无视防御"
+	},
+	"P_atk": {
+		"key": "P_atk",
+		"value": "攻击加成"
+	},
+	"P_max_hp": {
+		"key": "P_max_hp",
+		"value": "生命加成"
+	},
+	"P_def": {
+		"key": "P_def",
+		"value": "防御加成"
+	},
+	"P_redef": {
+		"key": "P_redef",
+		"value": "破甲加成"
+	},
+	"P_crit": {
+		"key": "P_crit",
+		"value": "暴击加成"
+	},
+	"P_recr": {
+		"key": "P_recr",
+		"value": "抗暴加成"
+	},
+	"P_hit": {
+		"key": "P_hit",
+		"value": "命中加成"
+	},
+	"P_dodge": {
+		"key": "P_dodge",
+		"value": "闪避加成"
+	},
+	"Gold_atk": {
+		"key": "Gold_atk",
+		"value": "金攻"
+	},
+	"Wood_atk": {
+		"key": "Wood_atk",
+		"value": "木攻"
+	},
+	"Water_atk": {
+		"key": "Water_atk",
+		"value": "水攻"
+	},
+	"Fire_atk": {
+		"key": "Fire_atk",
+		"value": "火攻"
+	},
+	"Soil_atk": {
+		"key": "Soil_atk",
+		"value": "土攻"
+	},
+	"Gold_def": {
+		"key": "Gold_def",
+		"value": "金防"
+	},
+	"Wood_def": {
+		"key": "Wood_def",
+		"value": "木防"
+	},
+	"Water_def": {
+		"key": "Water_def",
+		"value": "水防"
+	},
+	"Fire_def": {
+		"key": "Fire_def",
+		"value": "火防"
+	},
+	"Soil_def": {
+		"key": "Soil_def",
+		"value": "土防"
+	},
+	"P_gold_atk": {
+		"key": "P_gold_atk",
+		"value": "金系攻击加成"
+	},
+	"P_wood_atk": {
+		"key": "P_wood_atk",
+		"value": "木系攻击加成"
+	},
+	"P_water_atk": {
+		"key": "P_water_atk",
+		"value": "水系攻击加成"
+	},
+	"P_fire_atk": {
+		"key": "P_fire_atk",
+		"value": "火系攻击加成"
+	},
+	"P_soil_atk": {
+		"key": "P_soil_atk",
+		"value": "土系攻击加成"
+	},
+	"P_gold_def": {
+		"key": "P_gold_def",
+		"value": "金系防御加成"
+	},
+	"P_wood_def": {
+		"key": "P_wood_def",
+		"value": "木系防御加成"
+	},
+	"P_water_def": {
+		"key": "P_water_def",
+		"value": "水系防御加成"
+	},
+	"P_fire_def": {
+		"key": "P_fire_def",
+		"value": "火系防御加成"
+	},
+	"P_soil_def": {
+		"key": "P_soil_def",
+		"value": "土系防御加成"
+	},
+	"Gold_imprate": {
+		"key": "Gold_imprate",
+		"value": "金系伤害增加"
+	},
+	"Wood_imprate": {
+		"key": "Wood_imprate",
+		"value": "木系伤害增加"
+	},
+	"Water_imprate": {
+		"key": "Water_imprate",
+		"value": "水系伤害增加"
+	},
+	"Fire_imprate": {
+		"key": "Fire_imprate",
+		"value": "火系伤害增加"
+	},
+	"Soil_imprate": {
+		"key": "Soil_imprate",
+		"value": "土系伤害增加"
+	},
+	"Gold_decrate": {
+		"key": "Gold_decrate",
+		"value": "金系伤害减免"
+	},
+	"Wood_decrate": {
+		"key": "Wood_decrate",
+		"value": "木系伤害减免"
+	},
+	"Water_decrate": {
+		"key": "Water_decrate",
+		"value": "水系伤害减免"
+	},
+	"Fire_decrate": {
+		"key": "Fire_decrate",
+		"value": "火系伤害减免"
+	},
+	"Soil_decrate": {
+		"key": "Soil_decrate",
+		"value": "土系伤害减免"
+	},
+	"Div1rate": {
+		"key": "Div1rate",
+		"value": "神威降临"
+	},
+	"Div1time": {
+		"key": "Div1time",
+		"value": "神威持续"
+	},
+	"Div2rate": {
+		"key": "Div2rate",
+		"value": "神威降临"
+	},
+	"Div2time": {
+		"key": "Div2time",
+		"value": "神威持续"
+	},
+	"Div3rate": {
+		"key": "Div3rate",
+		"value": "神威降临"
+	},
+	"Div3time": {
+		"key": "Div3time",
+		"value": "神威持续"
+	},
+	"Faerie_war_die_no_drop": {
+		"key": "Faerie_war_die_no_drop",
+		"value": "仙装被爆概率减少"
+	},
+	"Qilingdam": {
+		"key": "Qilingdam",
+		"value": "器灵伤害"
+	},
+	"Qilingrealdam": {
+		"key": "Qilingrealdam",
+		"value": "器灵真实伤害"
+	},
+	"P_qilingdam": {
+		"key": "P_qilingdam",
+		"value": "器灵伤害加成"
+	},
+	"P_qilingskill": {
+		"key": "P_qilingskill",
+		"value": "器灵技能伤害加成"
+	},
+	"Qiling_critrate": {
+		"key": "Qiling_critrate",
+		"value": "器灵暴击率"
+	},
+	"Qiling_dbhitrate": {
+		"key": "Qiling_dbhitrate",
+		"value": "器灵连击率"
+	},
+	"Qiling_korate": {
+		"key": "Qiling_korate",
+		"value": "器灵会心一击率"
+	},
+	"P_qiling_tratime": {
+		"key": "P_qiling_tratime",
+		"value": "变身时间加成"
+	},
+	"Qiling_addtime": {
+		"key": "Qiling_addtime",
+		"value": "变身时间增加"
+	},
+	"Qiling_inheritrate": {
+		"key": "Qiling_inheritrate",
+		"value": "战位继承率"
+	},
+	"Pro_critrate": {
+		"key": "Pro_critrate",
+		"value": "云游收益暴击"
+	},
+	"ChessAtk": {
+		"key": "ChessAtk",
+		"value": "攻击力"
+	},
+	"ChessHp": {
+		"key": "ChessHp",
+		"value": "生命"
+	},
+	"ChessSpeed": {
+		"key": "ChessSpeed",
+		"value": "速度"
+	},
+	"TowerHeroAtk": {
+		"key": "TowerHeroAtk",
+		"value": "勇士攻击力"
+	},
+	"TowerHeroRange": {
+		"key": "TowerHeroRange",
+		"value": "勇士攻击范围"
+	},
+	"Stop": {
+		"key": "Stop",
+		"value": "停止"
+	},
+	"PropCntLackTip": {
+		"key": "PropCntLackTip",
+		"value": "%s不足"
+	},
+	"ViewDetail": {
+		"key": "ViewDetail",
+		"value": "查看详情"
+	},
+	"SkillEffect": {
+		"key": "SkillEffect",
+		"value": "技能效果"
+	},
+	"ActivityEndTip": {
+		"key": "ActivityEndTip",
+		"value": "活动已结束！"
+	},
+	"ActivityRemainTime": {
+		"key": "ActivityRemainTime",
+		"value": "活动剩余时间"
+	},
+	"JoinNow": {
+		"key": "JoinNow",
+		"value": "立即参与"
+	},
+	"BuyConfirmContent": {
+		"key": "BuyConfirmContent",
+		"value": "花费#Y%s%s#end购买#G%s#end"
+	},
+	"RankNumStr": {
+		"key": "RankNumStr",
+		"value": "第%s名"
+	},
+	"NoChallegeTimes": {
+		"key": "NoChallegeTimes",
+		"value": "挑战次数不足"
+	},
+	"MoneyGold": {
+		"key": "MoneyGold",
+		"value": "元宝"
+	},
+	"MoneyXianyu": {
+		"key": "MoneyXianyu",
+		"value": "仙玉"
+	},
+	"SuperVip": {
+		"key": "SuperVip",
+		"value": "超"
+	},
+	"NormalVip": {
+		"key": "NormalVip",
+		"value": "普"
+	},
+	"Rank1CHN": {
+		"key": "Rank1CHN",
+		"value": "第一名"
+	},
+	"LeaveFuBen": {
+		"key": "LeaveFuBen",
+		"value": "离开界面仍处在匹配队列，进入其他副本将\\n自动取消匹配\\n是否离开？"
+	},
+	"PayNoOpen": {
+		"key": "PayNoOpen",
+		"value": "充值暂未开放"
+	},
+	"NoActivity": {
+		"key": "NoActivity",
+		"value": "该活动暂未开启！"
+	},
+	"Juvenia_atk": {
+		"key": "Juvenia_atk",
+		"value": "尊皇攻击"
+	},
+	"Juvenia_def": {
+		"key": "Juvenia_def",
+		"value": "尊皇防御"
+	},
+	"Juvenia_imprate": {
+		"key": "Juvenia_imprate",
+		"value": "尊皇伤害加成"
+	},
+	"Juvenia_decrate": {
+		"key": "Juvenia_decrate",
+		"value": "尊皇伤害减免"
+	},
+	"P_juvenia_atk": {
+		"key": "P_juvenia_atk",
+		"value": "尊皇攻击加成"
+	},
+	"P_juvenia_def": {
+		"key": "P_juvenia_def",
+		"value": "尊皇防御加成"
+	},
+	"Yuanli": {
+		"key": "Yuanli",
+		"value": "源力"
+	},
+	"Yl_cv_rate": {
+		"key": "Yl_cv_rate",
+		"value": "源力转化率"
+	},
+	"Yl_shield": {
+		"key": "Yl_shield",
+		"value": "源力护盾"
+	},
+	"Yl_atk": {
+		"key": "Yl_atk",
+		"value": "源力攻击"
+	},
+	"Yl_maxshield": {
+		"key": "Yl_maxshield",
+		"value": "源力最大护盾"
+	},
+	"Yl_maxatk": {
+		"key": "Yl_maxatk",
+		"value": "源力最大攻击"
+	},
+	"Yl_exshield": {
+		"key": "Yl_exshield",
+		"value": "额外护盾"
+	},
+	"Yl_extak": {
+		"key": "Yl_extak",
+		"value": "源力额外攻击"
+	},
+	"Yl_reply": {
+		"key": "Yl_reply",
+		"value": "源力回复速度"
+	},
+	"Yl_exreply": {
+		"key": "Yl_exreply",
+		"value": "护盾额外回复速度"
+	},
+	"Yl_reply_inter": {
+		"key": "Yl_reply_inter",
+		"value": "护盾回复间隔缩短"
+	},
+	"Yl_exreply_inter": {
+		"key": "Yl_exreply_inter",
+		"value": "护盾额外回复间隔缩短"
+	},
+	"Yl_res_atk": {
+		"key": "Yl_res_atk",
+		"value": "源力攻击抗性"
+	},
+	"Yl_atk_dam": {
+		"key": "Yl_atk_dam",
+		"value": "源力攻击伤害"
+	},
+	"Yl_fire_atk": {
+		"key": "Yl_fire_atk",
+		"value": "源力火焰"
+	},
+	"Yl_frost_atk": {
+		"key": "Yl_frost_atk",
+		"value": "源力冰霜"
+	},
+	"Yl_light_atk": {
+		"key": "Yl_light_atk",
+		"value": "源力闪电"
+	},
+	"Yl_chaos_atk": {
+		"key": "Yl_chaos_atk",
+		"value": "源力混沌"
+	},
+	"Yl_p_fire": {
+		"key": "Yl_p_fire",
+		"value": "火焰抗性"
+	},
+	"Yl_p_light": {
+		"key": "Yl_p_light",
+		"value": "闪电抗性"
+	},
+	"Yl_p_frost": {
+		"key": "Yl_p_frost",
+		"value": "冰霜抗性"
+	},
+	"Yl_p_chaos": {
+		"key": "Yl_p_chaos",
+		"value": "混沌抗性"
+	},
+	"Yl_fire_dam": {
+		"key": "Yl_fire_dam",
+		"value": "火焰伤害"
+	},
+	"Yl_frost_dam": {
+		"key": "Yl_frost_dam",
+		"value": "冰霜伤害"
+	},
+	"Yl_light_dam": {
+		"key": "Yl_light_dam",
+		"value": "闪电伤害"
+	},
+	"Yl_chaos_sam": {
+		"key": "Yl_chaos_sam",
+		"value": "混沌伤害"
+	},
+	"Yl_dr_rate": {
+		"key": "Yl_dr_rate",
+		"value": "点燃几率提升"
+	},
+	"Yl_dr_time": {
+		"key": "Yl_dr_time",
+		"value": "点燃时间延长"
+	},
+	"Yl_ice_rate": {
+		"key": "Yl_ice_rate",
+		"value": "冰缓几率提升"
+	},
+	"Yl_ice_time": {
+		"key": "Yl_ice_time",
+		"value": "冰缓时间延长"
+	},
+	"Yl_gd_rate": {
+		"key": "Yl_gd_rate",
+		"value": "感电几率提升"
+	},
+	"Yl_gd_time": {
+		"key": "Yl_gd_time",
+		"value": "感电时间延长"
+	},
+	"Yl_sm_rate": {
+		"key": "Yl_sm_rate",
+		"value": "失明几率提升"
+	},
+	"Yl_sm_time": {
+		"key": "Yl_sm_time",
+		"value": "失明时间延长"
+	}
+}
