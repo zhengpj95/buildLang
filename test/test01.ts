@@ -16,38 +16,70 @@ namespace game {
 		return obj;
 	}
 
+	// /**
+	//  * 
+	//  * 获取语言包
+	//  * 有多个xlsx语言包，最后都合成到 Lang.ts 里
+	//  * @param key
+	//  * @param params
+	//  * @return string
+	//  */
+	// export function getLang(key: string, ...params: any[]): string {
+	// 	if (!key) {
+	// 		return '';
+	// 	}
+
+	// 	let keys = key.split('.');
+	// 	let filename = keys[0];
+	// 	let realKey = keys[1];
+
+	// 	let _file = '';
+	// 	let cfg: { key: string, value: string; };
+	// 	if (ConfigName.LangExplain.indexOf(filename) >= 0) {
+	// 		cfg = getConfigByNameId(ConfigName.LangExplain, realKey);
+	// 		_file = ConfigName.LangExplain;
+	// 	} else if (ConfigName.LangCommon.indexOf(filename) >= 0) {
+	// 		cfg = getConfigByNameId(ConfigName.LangCommon, realKey);
+	// 		_file = ConfigName.LangCommon;
+	// 	}
+
+	// 	if (!cfg || cfg.key != realKey) {
+	// 		console.log(`${_file}中不存在${realKey}`);
+	// 		return '';
+	// 	}
+
+	// 	let str: string = cfg.value;
+	// 	if (params && params.length > 0) {
+	// 		for (let i = 0; i < params.length; i++) {
+	// 			str = str.replace('%s', params[i]);
+	// 		}
+	// 	}
+	// 	return str;
+	// }
+
+
+	// // 测试用例
+	// let str = getLang(Lang.ActCond);// ActCond = "lang_common.ActCond"
+	// console.log(str); //激活条件
+
+	// str = getLang(Lang.PropCntLackTip, 'money');// PropCntLackTip = "lang_common.PropCntLackTip"
+	// console.log(str); //money不足
+
+
+
 	/**
 	 * 获取语言包
-	 * 有多个xlsx语言包，最后都合成到 Lang.ts 里
+	 * 有多个xlsx语言包，最后都合成到 LangDef.ts 里
 	 * @param key
 	 * @param params
-	 * @return string
 	 */
 	export function getLang(key: string, ...params: any[]): string {
 		if (!key) {
 			return '';
 		}
 
-		let keys = key.split('.');
-		let filename = keys[0];
-		let realKey = keys[1];
-
-		let _file = '';
-		let cfg: { key: string, value: string; };
-		if (ConfigName.LangExplain.indexOf(filename) >= 0) {
-			cfg = getConfigByNameId(ConfigName.LangExplain, realKey);
-			_file = ConfigName.LangExplain;
-		} else if (ConfigName.LangCommon.indexOf(filename) >= 0) {
-			cfg = getConfigByNameId(ConfigName.LangCommon, realKey);
-			_file = ConfigName.LangCommon;
-		}
-
-		if (!cfg || cfg.key != realKey) {
-			console.log(`${_file}中不存在${realKey}`);
-			return '';
-		}
-
-		let str: string = cfg.value;
+		let str: string = key;
+		str = str.replace(/\\n/g, '#N');
 		if (params && params.length > 0) {
 			for (let i = 0; i < params.length; i++) {
 				str = str.replace('%s', params[i]);
@@ -55,13 +87,5 @@ namespace game {
 		}
 		return str;
 	}
-
-
-	// 测试用例
-	let str = getLang(Lang.ActCond);// ActCond = "lang_common.ActCond"
-	console.log(str); //激活条件
-
-	str = getLang(Lang.PropCntLackTip, 'money');// PropCntLackTip = "lang_common.PropCntLackTip"
-	console.log(str); //money不足
 
 }
