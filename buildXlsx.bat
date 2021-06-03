@@ -1,5 +1,5 @@
 @echo off
 
-node ./src/buildXlsx.js %~dp0
+node ./src/build_xlsx.js %~dp0
 
 pause

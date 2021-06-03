@@ -1,5 +1,5 @@
 @echo off
 
-node src/buildLang.js %~dp0
+node src/build_lang.js %~dp0
 
 pause
