@@ -1,4 +1,4 @@
-var fs = require("fs");
+const fs = require("fs");
 let url = "./res/lang_explain.json";
 
 fs.readFile(url, "utf-8", (err, data) => {

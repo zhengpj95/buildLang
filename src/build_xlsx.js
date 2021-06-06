@@ -2,12 +2,12 @@
  * 读ts文件中的内容，枚举内容
  * 写入xlsx文件中
  */
-var fs = require("fs");
-var path = require("path");
-var xlsx = require("node-xlsx");
+let fs = require("fs");
+let path = require("path");
+let xlsx = require("node-xlsx");
 
-var url = path.join(__dirname, "../res/sourceLang.ts"); //把文件的内容写入xlsx
-var obj = {};
+let url = path.join(__dirname, "../res/sourceLang.ts"); //把文件的内容写入xlsx
+let obj = {};
 
 // console.log(process.argv);
 
@@ -16,7 +16,7 @@ fs.readFile(url, "utf-8", (err, data) => {
 		console.log(`读写原文件失败！`);
 		return;
 	}
-	let keyArr = [];
+	// let keyArr = [];
 	let idx = data.indexOf("	");
 	let lastIdx = data.indexOf(" = ");
 
@@ -25,14 +25,13 @@ fs.readFile(url, "utf-8", (err, data) => {
 
 	while (idx >= 0) {
 		let key = data.slice(idx + 1, lastIdx);
-		keyArr.push(key);
+		// keyArr.push(key);
 		idx = data.indexOf("	", idx + 1);
 		lastIdx = data.indexOf(" = ", lastIdx + 1);
 
 		strIdx1 = data.indexOf('= "', strIdx1 + 1);
 		strIdx2 = data.indexOf('",', strIdx2 + 1);
-		let value = data.slice(strIdx1 + 3, strIdx2);
-		obj[key] = value;
+		obj[key] = data.slice(strIdx1 + 3, strIdx2);
 	}
 
 	// console.log(obj);
@@ -43,7 +42,7 @@ function buildData(data) {
 	if (!data) {
 		return;
 	}
-	var myData = [
+	let myData = [
 		{
 			name: "lang_common",
 			data: [
